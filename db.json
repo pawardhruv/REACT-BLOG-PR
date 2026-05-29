@@ -1,0 +1,63 @@
+{
+  "blogs": [
+    {
+      "title": "lonavla",
+      "desc": "lonavla ",
+      "image": "https://imgs.search.brave.com/5ABJuJ34Dpmu81zpL57GrGZlZBTCdZBps8wbs_Y4pOU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4udHJpcGFk/dmlzb3IuY29tL21l/ZGlhL3Bob3RvLW8v/MGIvOTgvNGQvZWQv/bG9uYXZhbGEuanBn",
+      "date": "May 26, 2026",
+      "id": "pQ9FCBUIBAI"
+    },
+    {
+      "title": "matheran",
+      "desc": "matheran",
+      "image": "https://imgs.search.brave.com/I7VLRNx6QiLGwrb4HhhcxWcUzg-bZ2l2RpRKcRnGOSY/rs:fit:860:0:0:0/g:ce/aHR0cDovL3dhbm5h/YmVtYXZlbi5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTQv/MDgvdHJlay10by1t/YXRoZXJhbi0xMDI0/eDc2NS5qcGc",
+      "date": "May 26, 2026",
+      "id": "scSqbkMbmts"
+    },
+    {
+      "title": "dang",
+      "desc": "dang",
+      "image": "https://imgs.search.brave.com/KDk-Dge4KU95TLqx-drEJse28mgikXQbNqOUgI_ZByY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTk5/NjI4NjU4L3Bob3Rv/L2FlcmFpbC12aWV3/LW9mLW1pbmgtZGFt/LW1vdW50YWluLXZp/ZXRuYW0uanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVRYS1o5/LTdISC1ZREhGTzVf/ZWdBNG5RTW1kR2dM/QWYtNXNWVU9udC03/dkk9",
+      "date": "May 26, 2026",
+      "id": "zhm2wxD9a6Q"
+    },
+    {
+      "title": "mumba",
+      "desc": "mumbai",
+      "image": "https://imgs.search.brave.com/KDk-Dge4KU95TLqx-drEJse28mgikXQbNqOUgI_ZByY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTk5/NjI4NjU4L3Bob3Rv/L2FlcmFpbC12aWV3/LW9mLW1pbmgtZGFt/LW1vdW50YWluLXZp/ZXRuYW0uanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVRYS1o5/LTdISC1ZREhGTzVf/ZWdBNG5RTW1kR2dM/QWYtNXNWVU9udC03/dkk9",
+      "date": "May 26, 2026",
+      "id": "T9gWQnNJ-As"
+    },
+    {
+      "title": "hdhdhdh",
+      "desc": "ewqdds",
+      "image": "https://imgs.search.brave.com/KDk-Dge4KU95TLqx-drEJse28mgikXQbNqOUgI_ZByY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTk5/NjI4NjU4L3Bob3Rv/L2FlcmFpbC12aWV3/LW9mLW1pbmgtZGFt/LW1vdW50YWluLXZp/ZXRuYW0uanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVRYS1o5/LTdISC1ZREhGTzVf/ZWdBNG5RTW1kR2dM/QWYtNXNWVU9udC03/dkk9",
+      "date": "May 26, 2026",
+      "id": "qP2PcQAScAs"
+    }
+  ],
+  "users": [
+    {
+      "username": "theonlypawar",
+      "email": "dhruvpawarff@gmail.com",
+      "password": "dhruv@4545",
+      "role": "user",
+      "id": "oh4ZiLejqh0"
+    },
+    {
+      "username": "pawar",
+      "email": "dhruvpawar@gmail.com",
+      "password": "dhruv@123",
+      "role": "user",
+      "id": "En2Jj6kS2p8"
+    },
+    {
+      "username": "dhaval leelawala",
+      "email": "dhavalleelawala@gmail.com",
+      "password": "dhaval@123",
+      "role": "user",
+      "id": "g9CXF5NsaE0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
